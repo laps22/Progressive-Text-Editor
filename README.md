@@ -4,7 +4,7 @@
   
   ## Description
 
-  A single page application  that meets PWA criteria. This text editor is built using the idb package and is deploted via heroku however can still be user without internet co van nnection
+  A single page application that meets PWA criteria. This text editor is built using the webpack, idb package ,and is deploted via heroku however, can still be used without an internet connection.
   
   ## Table of Contents
   
